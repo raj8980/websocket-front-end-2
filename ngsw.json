@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618303784447,
+  "timestamp": 1618306222653,
   "index": "websocket-front-end-2/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "websocket-front-end-2/favicon.ico",
         "websocket-front-end-2/index.html",
-        "websocket-front-end-2/main.5d7c3002f7791791d76e.js",
+        "websocket-front-end-2/main.0cb7eee5adb8be97a2bb.js",
         "websocket-front-end-2/manifest.webmanifest",
         "websocket-front-end-2/polyfills.a55d39c0d93e03d11678.js",
         "websocket-front-end-2/runtime.7b63b9fd40098a2e8207.js",
@@ -56,8 +56,8 @@
     "websocket-front-end-2/assets/rubber-board.jpeg": "69b5aa3952b3e50a05e7d8fcb8b08822dc03303b",
     "websocket-front-end-2/assets/ters.jfif": "2d2e37026f0c9e834d5c065e0c3c35962109b01c",
     "websocket-front-end-2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "websocket-front-end-2/index.html": "2a00455729848c46c8e5728e516b19ec414f4f0a",
-    "websocket-front-end-2/main.5d7c3002f7791791d76e.js": "b424ef48d98e63d651e997c2f2075ad4c88c5093",
+    "websocket-front-end-2/index.html": "912a9aee493d9ed078a257c8dfb2c601370be14f",
+    "websocket-front-end-2/main.0cb7eee5adb8be97a2bb.js": "009fea93652254a0a4da9c1fe036cf2b3ef6194a",
     "websocket-front-end-2/manifest.webmanifest": "e8d2733fe92a3ee56a97119228fc0647b9b62e30",
     "websocket-front-end-2/polyfills.a55d39c0d93e03d11678.js": "d8ea49820569fedd3db3d0b2bf973a0f3aaebae4",
     "websocket-front-end-2/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
