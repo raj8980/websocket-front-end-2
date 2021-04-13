@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618321976664,
+  "timestamp": 1618322560102,
   "index": "websocket-front-end-2/index.html",
   "assetGroups": [
     {
@@ -58,7 +58,7 @@
     "websocket-front-end-2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "websocket-front-end-2/index.html": "dfe472ccb3646f6a2ed5caeb764498a67e224295",
     "websocket-front-end-2/main.b7bc80f5db1da640c832.js": "e150429e52fa5710a976badda832634e7a374170",
-    "websocket-front-end-2/manifest.webmanifest": "e8d2733fe92a3ee56a97119228fc0647b9b62e30",
+    "websocket-front-end-2/manifest.webmanifest": "24a623f19dc875590a9ebbca007f33e914274598",
     "websocket-front-end-2/polyfills.a55d39c0d93e03d11678.js": "d8ea49820569fedd3db3d0b2bf973a0f3aaebae4",
     "websocket-front-end-2/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "websocket-front-end-2/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
